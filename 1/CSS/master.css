@@ -1,0 +1,46 @@
+body {
+    background-color: greenyellow;
+}
+
+input[type=text],
+input[type=email],
+input[type=submit],
+textarea {
+    width: 280px;
+    height: 25px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+
+}
+
+.My-Form {
+    width: 320px;
+    height: 460px;
+    margin: auto;
+    margin-top: 40px;
+    background-color: #e5e5e5;
+}
+
+textarea {
+    height: 80px;
+}
+
+input[type=submit] {
+    background-color: blue;
+    height: 35px;
+}
+
+.design {
+    margin-top: 15px;
+    margin-left: 70px;
+}
+
+a {
+    color: rgb(138, 138, 177);
+}
+
+.child {
+    margin-left :20px;
+    padding-top: 2px;
+}

@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+body {
+    background-color: aqua;
+}
+.form-parent {
+    display: block;
+    /* background-color: aqua; */
+    width: 200px;
+    height: 150px;
+    margin: 10px;
+}
+.form-parent input[type=text], input[type=email], input[type=number], input[type=submit]{
+    margin: 18px 0px;
+    display: block;
+}
+.Whole-parent {
+    display: flex;
+    width:800px;
+    height: 260px;
+    background-color: white;
+    margin: auto;
+    margin-top: 30px;
+}
+.Learn {
+    margin: 20px 0px 50px;
+}
+div .code{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+input[type=submit] {
+    width: 180px;
+    height: 30px;
+    background-color: rgb(142, 211, 211);
+    color: white;
+}
